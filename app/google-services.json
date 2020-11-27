@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "323627161785",
+    "firebase_url": "https://social-network-b6438.firebaseio.com",
+    "project_id": "social-network-b6438",
+    "storage_bucket": "social-network-b6438.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323627161785:android:19abdeaec4d5a148aa2368",
+        "android_client_info": {
+          "package_name": "com.sanjeev.sn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "323627161785-lnedfdu8mc47b7hrbvg9gqcbumpmbt8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA197_6F8T-J03BaWh7_L8mEv_GeiK1iDs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "323627161785-lnedfdu8mc47b7hrbvg9gqcbumpmbt8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

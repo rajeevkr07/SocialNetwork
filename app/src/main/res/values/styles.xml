@@ -1,0 +1,40 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#6200EE</item>
+        <item name="colorPrimaryDark">#6200EE</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="CustomTheme" parent="Theme.AppCompat.NoActionBar">
+
+        <item name="colorPrimary">#480945</item>
+        <item name="colorPrimaryDark">#480945</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textViewStyle">@style/Ubuntu</item>
+
+
+    </style>
+
+    <style name="CropTheme" parent="Theme.AppCompat.Light">     
+
+        <item name="colorPrimary">#FFFFFF</item>
+        <item name="colorPrimaryDark">#FFF9F9</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+
+    <style name="TextAppearance.App.TextInputLayout" parent="@android:style/TextAppearance">
+        <!-- Customize your theme here. -->
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:textSize">11sp</item>
+    </style>
+
+    <style name="Ubuntu" parent="android:Widget.TextView">
+        <item name="android:fontFamily">@font/ub_reg</item>
+    </style>
+
+
+
+</resources>
